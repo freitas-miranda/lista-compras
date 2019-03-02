@@ -1,0 +1,29 @@
+{
+  "name": "lista-compras",
+  "version": "1.0.0",
+  "description": "Programa criado no curso de AngularJs. [[https://www.udemy.com/angularjs-for-beginners-udemy/]]",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miranda-ig/lista-compras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miranda-ig/lista-compras/issues"
+  },
+  "homepage": "https://github.com/miranda-ig/lista-compras#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  }
+}
